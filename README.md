@@ -8,5 +8,6 @@ https://plusidentity.vercel.app/
 
 
 ## Interfaces
-![Diagram Sirkuit](/plusidentity.png)
+![Plusidentity](/plusidentity1.png)
 
+![Plusidentity](/plusidentity2.png)
